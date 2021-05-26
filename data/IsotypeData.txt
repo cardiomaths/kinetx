@@ -1,0 +1,3 @@
+isotopes,channel,description
+D3,FL1-A,FITC fibrinogen isotpe (FL1 isotype)
+D4,FL4-4,APC CD62P isotpe (FL4 isotype)

@@ -1,0 +1,13 @@
+well,conc,units,agonist,drug,ref,desc
+B3,1,U/ml,thrombin,none,function,
+B4,500,mg/ml,CRPXL,none,function,
+B5,1,mM,ADP,none,function,
+B8,1,U/ml,thrombin,none,calcium,
+B9,1,U/ml,CRPXL,none,calcium,
+B10,1,U/ml,ADP,none,calcium,
+C3,20,mM,epinephrine,none,function,
+C4,1,mM,U46619,none,function,
+C5,5,mM,TRAP-6,none,function,
+C8,1,uM,epinephrine,none,calcium,
+C9,1,mM,U46619,none,calcium,
+C10,5,mM,TRAP-6,none,calcium,
